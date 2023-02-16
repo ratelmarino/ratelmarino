@@ -16,6 +16,7 @@
 ## Guides
 * [Network Tricks for server application developers](http://www.iasylum.net/writings/network-tricks.html).
 * [Sculpting text with regex, grep, sed, awk, emacs and vim](https://matt.might.net/articles/sculpting-text/).
+* [Rust Lang in a nutshell: 1# Introduction](https://www.softax.pl/blog/rust-lang-in-a-nutshell-1-introduction/).
 
 ## Misc
 * [How To Prioritize Tasks?](https://jimmyislive.dev/posts/how-to-prioritize/)
